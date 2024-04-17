@@ -19,32 +19,6 @@ body {
     max-width: 90%;
     overflow: hidden;
 }
-*/
-/*
-
-*/
-*/
-
-
-.btn {
-    width: 100px;
-    margin: auto;
-    cursor: pointer;
-    background: #3498db;
-    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
-    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
-    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
-    background-image: -o-linear-gradient(top, #3498db, #2980b9);
-    background-image: linear-gradient(to bottom, #3498db, #2980b9);
-    -webkit-border-radius: 8;
-    -moz-border-radius: 8;
-    border-radius: 8px;
-    font-family: Arial;
-    color: #ffffff;
-    font-size: 20px;
-    padding: 10px 20px 10px 20px;
-    text-decoration: none;
-}
 
 .fab {
     border-radius: 100%;
@@ -281,8 +255,8 @@ h5 {
   transition: transform var(--transition-duration);
   border-radius: 5%;
   box-shadow: var(--shadow-md), var(--shadow-md), var(--shadow-md);
-}*/
-/*
+}
+
 .form-update {
   padding: 2em;
   transform:translateX(50%);
@@ -439,7 +413,7 @@ body {
 }
 
 /* Estilo para los botones */
-.btn-primary {
+.btn {
   padding: .5rem 1rem;
   background-color: #f0ad4e; /* Color llamativo y moderno */
   border: none;
